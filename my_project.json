@@ -1,0 +1,38 @@
+{
+    "project_one": {
+        "name" : "Винный магазин",
+        "description": "Сайт о винном магазине(хотя я конечно не пью,но может кому-то это будет интересно)))",
+        "link" : "https://skskyess.github.io/hww1/",
+        "screen": "./jss/screen4.png" 
+    },
+    "project_two": {
+        "name" : "Фильмы",
+        "description": "Сайт о моих любимых фильмах,а именно Голодные игры , Иллюзия обмана , С любовью Рози и Достать ножи",
+        "link" : "https://skskyess.github.io/hwww2/",
+        "screen": "./jss/screen5.png"
+    },
+    "project_three": {
+        "name" : "Калькулятор",
+        "description": "Замечательный калькулятор, который поможет Вам решить любой пример. Пользуйтесь на здоровье! ",
+        "link" : "https://skskyess.github.io/hw3/",
+        "screen": "./jss/screen6.png"
+    },
+    "project_four": {
+        "name" : "Регистрация",
+        "description": "Супер регистрация, где можно ввести имя( больше трех символов) и возвраст(старше 18)",
+        "link" : "https://skskyess.github.io/hw4/",
+        "screen": "./jss/screen3.png"
+    },
+    "project_five": {
+        "name" : "Список дел",
+        "description": "Это гениальный список дел, где можно их редактировать и удалять",
+        "link" : "https://skskyess.github.io/hw5/",
+        "screen": "./jss/screen1.png"
+    },
+    "project_six": {
+        "name" : "JSON",
+        "description": "Здесь хранится информация о моих одногруппниках,которая берется из json",
+        "link" : "https://skskyess.github.io/hw6/",
+        "screen": "./jss/screen2.png"
+    }
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width: 414px) {
+    body {
+      width: 400px;
+    }
+    .conteiner {
+        height:1800px ;
+    }
+}
+@media screen and (max-width: 900px) {
+    body {
+        width: 900px;
+    }
+    .conteiner {
+        width: 1000px;
+        height: 1330px;
+    }
+    .header-nav {
+        font-size: 75px;
+    }
+    .header_top {
+        font-size: 25px;
+    }
+    .span {
+        padding-right: 40px;
+        padding-top: 200px;
+    }
+    .about {
+        width: 900px;
+        height: 800px;
+    }
+    .me2 {
+        padding-left: 230px;
+    }
+    .photo img {
+        height: 170px;
+        width: 125px;
+    }
+    .ww {
+        width: 1200px;
+    }
+}
